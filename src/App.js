@@ -18,6 +18,8 @@ function App() {
   return (
     <div className="main-container">
       <div className="center-container">
+        <h1 className="h1-container">Create Todos</h1>
+        <br/>
         <TodoInp addList={addList}/>
         <hr/>
         {listTodo.map((listItem, i) =>{

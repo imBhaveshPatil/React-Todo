@@ -92,3 +92,9 @@ body{
 .icon-delete:hover{
   color: red;
 }
+.h1-container{
+  color: white;
+  text-align: center;
+  margin: 2px;
+  padding-right: 35px;
+}
