@@ -1,12 +1,16 @@
-# Todo App
+# 📝 **Todo App**
 
-This is a simple Todo app built with React.
+A sleek and minimalistic Todo application built with **React** to help you stay organized and productive!  
 
-## Live Demo
+🌐 **Live Demo**: [Check it out on Vercel 🚀](https://react-todo-woad-eight.vercel.app/)
 
-Check out the live version of the app: [Todo App](https://react-todo-woad-eight.vercel.app/)
+---
 
-## Features
-- Add tasks
-- Mark tasks as complete
-- Delete tasks
+## 📌 **Features**
+
+✅ Add new tasks effortlessly  
+✅ Mark tasks as completed or uncompleted  
+✅ Delete tasks with one click  
+✅ Fully responsive design  
+
+---
